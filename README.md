@@ -1,14 +1,11 @@
 <p align="center">
-  <a href="https://swiperjs.com" target="_blank">
-    <img width="77px" src="https://github.surmon.me/images/common/swiper-logo.svg" />
+  <a href="http://ipsfa.gob.ve" target="_blank">
+    <img width="150px" src="https://app.ipsfa.gob.ve/img/logo-ipsfa.4c5bfd80.jpg" />
   </a>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://vuejs.org" target="_blank">
-    <img width="77px" src="https://github.surmon.me/images/common/vue-logo.png" />
-  </a>
 </p>
 
-# vue-awesome-swiper
+# Aplicación Web del Instituto de Previsión Social de la Fuerza Armada
 ![vue](https://img.shields.io/badge/MADE%20WITH-VUE-42a97a?style=for-the-badge&labelColor=35495d)
 [![GitHub stars](https://img.shields.io/github/stars/surmon-china/vue-awesome-swiper.svg?style=for-the-badge)](https://github.com/surmon-china/vue-awesome-swiper/stargazers)
 [![npm](https://img.shields.io/npm/v/vue-awesome-swiper?color=c7343a&label=npm&style=for-the-badge)](https://www.npmjs.com/package/vue-awesome-swiper)
