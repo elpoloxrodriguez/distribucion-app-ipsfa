@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ef213145e380cfd75983435c3d237265.js"
+  "/precache-manifest.32ef726d1ca861401088a5d57ffbd25c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "app-ipsfa-enlinea"});
